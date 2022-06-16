@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja\bin\Debug\net6.0\TestNinja.deps.json
+C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja\bin\Debug\net6.0\TestNinja.dll
+C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja\bin\Debug\net6.0\TestNinja.pdb
+C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja\obj\Debug\net6.0\TestNinja.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja\obj\Debug\net6.0\TestNinja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja\obj\Debug\net6.0\TestNinja.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja\obj\Debug\net6.0\TestNinja.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja\obj\Debug\net6.0\TestNinja.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja\obj\Debug\net6.0\TestNinja.dll
+C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja\obj\Debug\net6.0\refint\TestNinja.dll
+C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja\obj\Debug\net6.0\TestNinja.pdb
+C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja\obj\Debug\net6.0\ref\TestNinja.dll
