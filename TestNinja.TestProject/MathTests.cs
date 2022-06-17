@@ -14,6 +14,7 @@ namespace TestNinja.TestProject
             _math = new Fundamentals.Math();
         }
         [Test]
+        [Ignore ("BEcause I wanted do!")]
         public void Add_WhenCalled_ReturnTheSumOfArguments()
         {
             //var math = new Fundamentals.Math(); // ya no se necesita porque se lo crea en Setup
@@ -40,6 +41,20 @@ namespace TestNinja.TestProject
             var math = new Fundamentals.Math();
             var result = math.Max(2, 2);
             Assert.That(result, Is.EqualTo(2));
+        }
+
+
+        //***** PARAMETERS TESTS ****************//
+        [Test]
+        [TestCase(2,1,2)]// 2 y 1 max=2
+        [TestCase(1,3,3)]// 1 y 3 max=3 
+        [TestCase(1,1,1)]// 1 y 1 max=1 
+        public void Max_WhenCalled_ReturnTheGreaterArgument(int a,int b, int expectectedResult)
+        {
+            //var math = new Fundamentals.Math(); // ya no se necesita porque se lo crea en Setup
+            var result = _math.Max(a,b);
+            //Assert.Equals(10, result);
+            Assert.That(result, Is.EqualTo(expectectedResult));
         }
     }
 }
