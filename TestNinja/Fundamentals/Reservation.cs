@@ -6,7 +6,7 @@
 
         public bool CanBeCancelledBy(User user)
         {
-            return (user.IsAdmin || MadeBy == user);
+         return (user.IsAdmin || MadeBy == user);
             // we have 3 scenarios when is admin, when the user is the same person who did the reservation
             // the 3rd scenario is when someone else try to cancel the reservation
         }

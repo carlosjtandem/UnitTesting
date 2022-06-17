@@ -99,3 +99,9 @@ C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja.TestProject\o
 C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja.TestProject\obj\Debug\net6.0\TestNinja.TestProject.pdb
 C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja.TestProject\obj\Debug\net6.0\TestNinja.TestProject.genruntimeconfig.cache
 C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja.TestProject\obj\Debug\net6.0\ref\TestNinja.TestProject.dll
+C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja.TestProject\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja.TestProject\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja.TestProject\bin\Debug\net6.0\nunit.engine.netstandard.dll
+C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja.TestProject\bin\Debug\net6.0\Mono.Cecil.dll
+C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja.TestProject\bin\Debug\net6.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Usuario\source\repos\Learning\UnitTesting_Udemy\TestNinja.TestProject\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
