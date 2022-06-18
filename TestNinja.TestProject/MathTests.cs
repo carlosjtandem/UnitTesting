@@ -56,5 +56,8 @@ namespace TestNinja.TestProject
             //Assert.Equals(10, result);
             Assert.That(result, Is.EqualTo(expectectedResult));
         }
+
+        // **** atesting arrays and collections -- method GetOddNumbers in Math.cs
+
     }
 }
